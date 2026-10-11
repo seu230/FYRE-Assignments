@@ -6,3 +6,4 @@
 10/7/26 Presented to class on our final project
 The Sensing the World Presentation File corresponds to the slide show we used during our final project presentation to the class
 The Umbrella2.py file corresponds to the most updated version of the code used in our prototype
+Final Prototype Picture.png corresponds to the picture of our final prototype for the project
