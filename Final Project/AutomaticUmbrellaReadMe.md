@@ -4,3 +4,5 @@
 9/28/26 - 9/30/26 Worked to improve prototype by creating base for the system added increasing flashing rate for higher ADC readings on the moisture sensor
 10/5/26 Showcased our prototype to Professor in class to demonstrate functionality
 10/7/26 Presented to class on our final project
+The Sensing the World Presentation File corresponds to the slide show we used during our final project presentation to the class
+The Umbrella2.py file corresponds to the most updated version of the code used in our prototype
